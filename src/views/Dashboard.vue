@@ -8,6 +8,7 @@ import StatsWidget from '@/components/dashboard/StatsWidget.vue';
 
 <template>
     <div class="grid grid-cols-12 gap-8">
+        DEPLOY
         <StatsWidget />
 
         <div class="col-span-12 xl:col-span-6">
